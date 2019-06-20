@@ -18,8 +18,6 @@ $controller='auth/'.segment(2);
 if(controller($controller)){
 
 }else{
-        view('home/404');
+    view('home/404');
 }
-
-
 ?>
