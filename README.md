@@ -1,5 +1,5 @@
 ## install
 ```bash
 call install auth &&
-basic install auth e env error controller method model redirect segment view
+basic install auth controller e env error method model redirect segment view
 ```
